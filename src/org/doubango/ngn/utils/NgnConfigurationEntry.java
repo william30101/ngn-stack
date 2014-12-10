@@ -173,7 +173,7 @@ public class NgnConfigurationEntry {
 	public static final boolean DEFAULT_NETWORK_USE_WIFI = true;
 	public static final boolean DEFAULT_NETWORK_USE_3G = false;
 	public static final String DEFAULT_NETWORK_PCSCF_DISCOVERY = "None";
-	public static final String DEFAULT_NETWORK_PCSCF_HOST = "127.0.0.1";
+	public static final String DEFAULT_NETWORK_PCSCF_HOST = "61.222.245.149";
 	public static final int DEFAULT_NETWORK_PCSCF_PORT = 5060;
 	public static final boolean DEFAULT_NETWORK_USE_SIGCOMP = false;
 	public static final String DEFAULT_NETWORK_TRANSPORT = "udp";
@@ -191,8 +191,8 @@ public class NgnConfigurationEntry {
 	public static final boolean DEFAULT_NATT_USE_STUN_FOR_ICE = true;
 	public static final boolean DEFAULT_NATT_USE_TURN_FOR_ICE = false;
 	public static final boolean DEFAULT_NATT_STUN_DISCO = false;
-	public static final String DEFAULT_NATT_STUN_SERVER = "numb.viagenie.ca";
-	public static final int DEFAULT_NATT_STUN_PORT = 3478;
+	public static final String DEFAULT_NATT_STUN_SERVER = "stun.l.google.com";
+	public static final int DEFAULT_NATT_STUN_PORT = 19302;
 	public static final String DEFAULT_NATT_STUN_USERNAME = "";
 	public static final String DEFAULT_NATT_STUN_PASSWORD = "";
 	
