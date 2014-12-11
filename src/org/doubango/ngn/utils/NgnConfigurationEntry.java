@@ -174,7 +174,7 @@ public class NgnConfigurationEntry {
 	public static final boolean DEFAULT_NETWORK_USE_3G = false;
 	public static final String DEFAULT_NETWORK_PCSCF_DISCOVERY = "None";
 	public static final String DEFAULT_NETWORK_PCSCF_HOST = "61.222.245.149";
-	public static final int DEFAULT_NETWORK_PCSCF_PORT = 5060;
+	public static final int DEFAULT_NETWORK_PCSCF_PORT = 20060;
 	public static final boolean DEFAULT_NETWORK_USE_SIGCOMP = false;
 	public static final String DEFAULT_NETWORK_TRANSPORT = "udp";
 	public static final String DEFAULT_NETWORK_IP_VERSION = "ipv4";
