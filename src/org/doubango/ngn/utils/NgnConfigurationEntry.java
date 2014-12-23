@@ -169,11 +169,11 @@ public class NgnConfigurationEntry {
 	
 	// Network
 	public static final int DEFAULT_NETWORK_REGISTRATION_TIMEOUT = 1700;
-	public static final String DEFAULT_NETWORK_REALM = "doubango.org";
+	public static final String DEFAULT_NETWORK_REALM = "cloudapp.net";
 	public static final boolean DEFAULT_NETWORK_USE_WIFI = true;
 	public static final boolean DEFAULT_NETWORK_USE_3G = false;
 	public static final String DEFAULT_NETWORK_PCSCF_DISCOVERY = "None";
-	public static final String DEFAULT_NETWORK_PCSCF_HOST = "61.222.245.149";
+	public static final String DEFAULT_NETWORK_PCSCF_HOST = "kinposerver.cloudapp.net";
 	public static final int DEFAULT_NETWORK_PCSCF_PORT = 20060;
 	public static final boolean DEFAULT_NETWORK_USE_SIGCOMP = false;
 	public static final String DEFAULT_NETWORK_TRANSPORT = "udp";
